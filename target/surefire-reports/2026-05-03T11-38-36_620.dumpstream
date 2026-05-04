@@ -1,0 +1,5 @@
+# Created at 2026-05-03T11:38:36.866
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Training\TCS\Accelerate Azure Development with GitHub\Artifact\Workspace\Demo\user-management\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

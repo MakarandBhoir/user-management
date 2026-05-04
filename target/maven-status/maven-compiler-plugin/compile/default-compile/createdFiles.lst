@@ -1,0 +1,7 @@
+com\demo\usermanagement\controller\AdminController.class
+com\demo\usermanagement\model\User.class
+com\demo\usermanagement\UserManagementApplication.class
+com\demo\usermanagement\repository\UserRepository.class
+com\demo\usermanagement\service\UserService.class
+com\demo\usermanagement\controller\UserController.class
+com\demo\usermanagement\config\SecurityConfig.class
