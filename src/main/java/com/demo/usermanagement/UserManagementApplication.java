@@ -2,7 +2,7 @@ package com.demo.usermanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+// modification - 1
 @SpringBootApplication
 public class UserManagementApplication {
 
